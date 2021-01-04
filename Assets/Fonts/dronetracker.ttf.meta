@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2eec0436f44fb744ebc63edae4677316
+timeCreated: 1499492269
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Drone Tracker
+  fontNames:
+  - Drone Tracker
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
